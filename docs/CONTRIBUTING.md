@@ -1,2 +1,3 @@
-If you want you can add any cocktail wich is missing.
+If you want you can add any cocktail which is missing.
+
 :)
