@@ -1,4 +1,4 @@
-# CocktailDatabase
+# Cocktail Database
 A cocktail database in JSON format
 
 # Usage
@@ -22,7 +22,7 @@ With db.***cocktail*** ( __Where of course ***cocktail*** is the name of your co
 There's also an all_ingredients property --> {alcholic,nonalcholic} 
 showned after 
 
-# SAMPLE OUTPUT
+## SAMPLE OUTPUT
 
 ```
 db.vodka_sour.ingredients 
