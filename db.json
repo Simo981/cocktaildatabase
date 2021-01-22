@@ -1,4 +1,31 @@
 {
+     "spritz":{
+        "ingredients":{
+            "aperol":"50 ml",
+            "soda":"30 ml",
+            "sparkling_white_wine":"75 ml"
+        },
+        "decoration":"Orange Slice",
+        "category":"Medium Drink",
+        "method":"Stirred",
+        "type":"Pre Dinner"
+    },
+     "long_island_iced_tea":{
+        "ingredients":{
+            "vodka":"15 ml",
+            "gin":"15 ml",
+            "white_rum":"15 ml",
+            "orange_liqueur":"15 ml",
+            "tequila":"15 ml",
+            "lemon_juice":"20 ml",
+            "simple_syrup":"3 drops",
+            "cola":"top"
+        },
+        "decoration":"Lemon Slice",
+        "category":"Long Drink",
+        "method":"Shake & Strain",
+        "type":"After Dinner"
+    },
     "vodka_sour":{
         "ingredients":{
             "vodka":"45 ml",
@@ -267,7 +294,7 @@
     },
 
     "all_ingredients":{
-        "alcholic":["Vodka","White_Rum","Golden_Rum","Amaretto_liqueur","Scotch_Whiskey","Bourbon_Whiskey","Tequila","Gin","Brandy"],
-        "non_alcholic":["Lemon_Juice","Water","Soda","Granadine_Syrup","Orange_Juice","Ace_Juice","Ananas_Juice","Salt","Sugar","Grapefruit_Juice","Bitter"]
+        "alcholic":["Vodka","White Rum","Golden Rum","Amaretto Liqueur","Scotch Whiskey","Bourbon Whiskey","Tequila","Gin","Brandy","White Wine","Sparkling White Wine","Orange Liqueur","Banana Liqueur","Aperol"],
+        "non_alcholic":["Lemon Juice","Water","Soda","Granadine Syrup","Orange Juice","Ace Juice","Ananas Juice","Salt","Sugar","Grapefruit Juice","Bitter"]
     }
 }
